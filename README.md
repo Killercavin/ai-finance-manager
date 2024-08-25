@@ -74,8 +74,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/ai-finance-trackingt.git
-cd ai-finance-tracking
+git clone https://github.com/Killercavin/ai-finance-manager.git
+cd ai-finance-manager
 ```
 
 **Installation**
